@@ -21,7 +21,7 @@ To use this program, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/custom-tcp-packet-generator.git
+   git clone https://github.com/yourusername/packet_injection.git
 
 2. Compile the C program:
 
